@@ -1,6 +1,7 @@
 ## Oi, eu sou o João Luis Prado!
 
-<p> Sou desenvolvedor full-stack com foco em front-end. Trabalho com JavaScript, PHP e frameworks modernos além de aplicar metodologias ágeis como, Scrum e Kanban para entregar soluções práticas e bem estruturadas. </p>
+<p> Sou desenvolvedor full-stack. Trabalho com JavaScript, PHP e frameworks modernos além de aplicar metodologias ágeis como, Scrum, Kanban, Lean e OKR para entregar soluções práticas e bem estruturadas. </p>
+<p>Além das metodologias citadas, criei o framework de gestão Metis, voltado para equipes de pequeno e médio porte e times de sustentação. A documentação do Metis está no ar e no meu portfólio tem uma parte dedicada exclusivamente para ele.</p>
 <p> Apaixonado por música, tecnologia e aprendizado, procuro contribuir para o mundo compondo, desenvolvendo projetos tecnológicos ou me aprofundando nos estudos. </p>
 ---
 
